@@ -1,2 +1,3 @@
 Sample file
 This is update
+This is change #2 from git subrepo
